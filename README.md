@@ -16,7 +16,7 @@ The ultrasonic sensor is **mounted on top of the servo motor**, allowing it to *
 - Servo Motor  
 - Jumper Wires  
 - Breadboard 
-- Mount for sensor  
+- Mount for sensor  (It was attached to the repository under the name "Mount")
 - Power Source  
 
 ---
